@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+   
+}
+.card {
+    background-color: #333;
+    color: white;
+}
+
+.none{
+display: none;
+}
+
+.decor1{
+text-decoration: line-through;
+}
